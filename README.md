@@ -6,4 +6,4 @@ Technologies Used:
 - Python
 
 Developer:
-- Tannu Dalal
+- Tannu
